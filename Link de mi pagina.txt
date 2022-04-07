@@ -1,0 +1,5 @@
+# blogpersonal
+Examen segundo parcial de sitios web
+link: https://fernanblog.000webhostapp.com/
+Nota: No carga la imagen porque no sube la imagen a la carpeta del servidor, pero en el local si elije una imagen de la carpeta del proyecto si se visualiza.
+sin embargo lo subi al servidor para que vea y gane mis puntos extras. saludos!!!
